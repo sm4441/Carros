@@ -1,9 +1,9 @@
 const DATA = [
     {
         id:'01',
-        nome:'Ferrari',
+        nome:'Ferrari 812 GTS',
         nota:'4',
-        imagem:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSao4tTOjssCR6bi1V8F7wX_rHkrd_ELtOZlZoJSsOj7OImTvjAfkXyhP7Suq5M5XAeVyk&usqp=CAU',
+        imagem:'https://bocamafra.com.br/wp-content/uploads/2024/12/93c2725c1676456788ee332fa04a069a_1734964912488.jpg',
         sinopse:'Os jovens João e Maria foram abandonados pelos pais na sombria floresta e acabam indo parar na casa de uma malvada bruxa. Mas o que parecia ser o fim acabou se tornando o começo de uma vida cheia de aventuras, uma vez que eles eliminaram a malvada e viraram verdadeiros exterminadores de criaturas do mal. Após o desaparecimento de várias crianças, os dois já adultos (Jeremy Renner e Gemma Arterton) são contratados pelas autoridades locais para desvendar o mistério. Só que eles não imaginavam que essa nova missão iria colocá-los diante da terrível Bruxa Negra (Famke Janssen), pronta para destruir não só a reputação de excelentes caçadores de bruxas, mas também as suas vidas.'
 
     },{
